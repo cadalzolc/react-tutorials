@@ -1,5 +1,12 @@
 # A FRIENDLY REACT-JS TUTORIALS
 
+## Getting Started
+
+Requirements
+- [Node.JS](https://nodejs.org/en/)
+
+
+
 ## Tutorial 1
 
 ## Tutorial 5
