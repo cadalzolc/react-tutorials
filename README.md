@@ -17,4 +17,6 @@ Requirements
 
 ## Tutorial 5
 
-[Buy me a cofee](buymeacoffee.com/cadalzolc)           
+I have a goal for everyone:
+
+[☕ Buy me a cofee](buymeacoffee.com/cadalzolc)           
